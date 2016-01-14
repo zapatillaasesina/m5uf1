@@ -1,4 +1,5 @@
 1. Desenvolupament de programari (’software’)
+
   [1.1 Concepte de programa informàtic]()
 
   [1.2 Codi font, codi objecte i codi excutable: màquines virtuals]()
