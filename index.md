@@ -1,6 +1,6 @@
 1. Desenvolupament de programari (’software’)
 
-  [1.1 Concepte de programa informàtic]()
+  [1.1 Concepte de programa informàtic](https://github.com/zapatillaasesina/m5uf1/edit/master/Programa_Informatic.md)
 
   [1.2 Codi font, codi objecte i codi excutable: màquines virtuals]()
  
