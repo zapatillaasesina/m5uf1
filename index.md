@@ -2,7 +2,7 @@
 
   [1.1 Concepte de programa informàtic](https://github.com/zapatillaasesina/m5uf1/blob/master/Programa_Informatic.md)
 
-  [1.2 Codi font, codi objecte i codi excutable: màquines virtuals]()
+  [1.2 Codi font, codi objecte i codi excutable: màquines virtuals](https://github.com/zapatillaasesina/m5uf1/blob/master/Codi_Font.md)
  
   [1.3 Tipus de llenguatges de programació]()
   
